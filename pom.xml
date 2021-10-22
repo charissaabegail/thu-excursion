@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.thuexcursion</groupId>
-	<artifactId>spring-boot-thuexcursion-crud</artifactId>
+	<artifactId>thu-excursion</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-thuexcursion-crud</name>
+	<name>thu-excursion</name>
 	<description>THU Excursion Project for Spring boot</description>
 	<properties>
 		<java.version>11</java.version>
